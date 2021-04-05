@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.1)
+project(hashtblVSrbtree)
+add_executable(benchmark "./benchmark.cpp" "./rbt.c" "./ht.c")
+add_compile_options("/utf-8")
+target_include_directories(benchmark PUBLIC ".")
