@@ -1,0 +1,35 @@
+hashtable: init = 0, search = 323. red-black tree: init = 1, search = 384, size=1024
+hashtable: init = 0, search = 266. red-black tree: init = 1, search = 407, size=2048
+hashtable: init = 1, search = 276. red-black tree: init = 1, search = 385, size=4096
+hashtable: init = 1, search = 260. red-black tree: init = 3, search = 348, size=8192
+hashtable: init = 2, search = 243. red-black tree: init = 5, search = 354, size=16384
+hashtable: init = 5, search = 241. red-black tree: init = 10, search = 375, size=32768
+hashtable: init = 11, search = 242. red-black tree: init = 20, search = 366, size=65536
+hashtable: init = 24, search = 224. red-black tree: init = 45, search = 337, size=131072
+hashtable: init = 52, search = 213. red-black tree: init = 84, search = 322, size=262144
+hashtable: init = 108, search = 195. red-black tree: init = 172, search = 279, size=524288
+hashtable: init = 253, search = 159. red-black tree: init = 374, search = 232, size=1048576
+hashtable: init = 536, search = 183. red-black tree: init = 786, search = 302, size=2097152
+hashtable: init = 1146, search = 188. red-black tree: init = 1607, search = 318, size=4194304
+hashtable: init = 2392, search = 199. red-black tree: init = 3362, search = 411, size=8388608
+hashtable: init = 4953, search = 228. red-black tree: init = 7037, search = 437, size=16777216
+hashtable: init = 10317, search = 231. red-black tree: init = 14236, search = 578, size=33554432
+hashtable: init = 21818, search = 262. red-black tree: init = 29702, search = 999, size=67108864
+
+   384, size=1024
+   407, size=2048
+   385, size=4096
+   348, size=8192
+   354, size=16384
+   375, size=32768
+   366, size=65536
+   337, size=131072
+   322, size=262144
+   279, size=524288
+   232, size=1048576
+   302, size=2097152
+   318, size=4194304
+   411, size=8388608
+   437, size=16777216
+   578, size=33554432
+   999, size=67108864
